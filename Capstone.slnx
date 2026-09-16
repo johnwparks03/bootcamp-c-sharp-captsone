@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Catalog/Catalog.csproj" />
+  <Project Path="Reservation/Reservation.csproj" />
+  <Project Path="User/User.csproj" />
+</Solution>
