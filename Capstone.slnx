@@ -1,5 +1,6 @@
 <Solution>
-  <Project Path="Catalog/Catalog.csproj" />
-  <Project Path="Reservation/Reservation.csproj" />
-  <Project Path="User/User.csproj" />
+  <Project Path="CatalogService\CatalogService.csproj" />
+  <Project Path="ReservationService\ReservationService.csproj" />
+  <Project Path="UserService/UserService.csproj" />
+  <Project Path="UserService.Tests/UserService.Tests.csproj" />
 </Solution>
